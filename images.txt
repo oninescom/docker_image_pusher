@@ -1,9 +1,4 @@
-postgres:13.15
-rabbitmq:3.13.6-management
-mongo:5.0
-mongo-express:1.0.2-18
-openjdk:17-slim-buster
-openjdk:24-oraclelinux8
-openjdk:24-slim-bullseye
-openjdk:8-jre-alpine
-openjdk:11.0.16-jre-slim-buster
+postgres:15-alpine
+redis:6-alpine
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
