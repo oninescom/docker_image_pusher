@@ -1,4 +1,1 @@
-postgres:15-alpine
-redis:6-alpine
-ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
+xuchengen/rocketmq:latest
