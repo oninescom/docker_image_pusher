@@ -1,1 +1,1 @@
-xuchengen/rocketmq:latest
+minio/minio
