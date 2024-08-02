@@ -1,1 +1,2 @@
-minio/minio
+langgenius/qdrant:v1.7.3
+langgenius/dify-sandbox:0.2.1
