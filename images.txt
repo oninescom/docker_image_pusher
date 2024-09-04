@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.4.1-slim
+nginx:1.19.6
