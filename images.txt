@@ -1,1 +1,1 @@
-rabbitmq:management
+milvusdb/milvus:v2.4.5
