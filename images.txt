@@ -1,1 +1,2 @@
-milvusdb/milvus:v2.4.5
+elasticsearch:7.17.24
+kibana:7.17.24
