@@ -1,2 +1,1 @@
-elasticsearch:7.17.24
-kibana:7.17.24
+ollama/ollama
