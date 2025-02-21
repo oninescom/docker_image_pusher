@@ -1,1 +1,1 @@
-openjdk:11.0.11-jre-slim
+langgenius/dify-plugin-daemon:0.0.2-local
