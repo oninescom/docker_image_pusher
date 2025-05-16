@@ -1,2 +1,1 @@
-debian:latest
-ubuntu:latest
+debian:stable-slim
