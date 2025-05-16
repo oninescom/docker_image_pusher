@@ -1,1 +1,1 @@
-maptiler/tileserver-gl
+python:3.8.20-slim
