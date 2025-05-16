@@ -1,2 +1,2 @@
-debain:latest
+debian:latest
 ubuntu:latest
