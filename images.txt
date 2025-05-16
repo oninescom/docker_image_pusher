@@ -1,1 +1,2 @@
-python:3.8.20-slim
+debain:latest
+ubuntu:latest
