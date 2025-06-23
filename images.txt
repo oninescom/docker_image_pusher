@@ -1,1 +1,1 @@
-mongo
+rancher/rancher:latest
