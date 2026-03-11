@@ -1,1 +1,1 @@
-rancher/rancher:v2.12.2
+linuxserver/libreoffice
