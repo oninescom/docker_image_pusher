@@ -1,1 +1,1 @@
-linuxserver/libreoffice
+gotenberg/gotenberg:8.27
