@@ -1,1 +1,1 @@
-gotenberg/gotenberg:8.27
+nvidia/cuda:12.1.1-runtime-ubuntu22.04
