@@ -1,1 +1,1 @@
-rancher/mirrored-library-busybox:1.37.0
+rancher/kuberlr-kubectl:v7.0.1
