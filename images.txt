@@ -1,1 +1,1 @@
-rancher/mirrored-library-traefik:3.6.13
+rancher/rancher:v2.14.2
