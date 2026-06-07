@@ -1,2 +1,1 @@
-rancher/klipper-helm:v0.10.0-build20260513
-rancher/local-path-provisioner:v0.0.36
+rancher/mirrored-library-traefik:3.6.13
