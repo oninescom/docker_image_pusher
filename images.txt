@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.15.2
+rancher/kuberlr-kubectl:v7.0.3
