@@ -1,1 +1,2 @@
-rancher/kuberlr-kubectl:v7.0.1
+rancher/prom-prometheus:v3.8.1
+rancher/appco-alertmanager:0.30.0-12.16
