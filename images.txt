@@ -1,3 +1,1 @@
-nacos/nacos-server:latest
-bladex/sentinel-dashboard:latest
-seataio/seata-server:latest
+nacos/nacos-server:v2.5.4
